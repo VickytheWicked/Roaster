@@ -51,7 +51,8 @@ Client → Node.js Backend → API Data Fetching → Data Processing → Ollama 
 
  Run `npm run dev` to start the development server.
 
-##Screenshots
+
+## Screenshots
 <img width="1325" height="760" alt="image" src="https://github.com/user-attachments/assets/814855e1-c764-4856-90e0-d2680591beaa" />
 <img width="1885" height="887" alt="image" src="https://github.com/user-attachments/assets/155a2bff-2dc9-4be4-9417-d76cd830f43a" />
 <img width="1676" height="831" alt="image" src="https://github.com/user-attachments/assets/27d7ef77-c637-4f28-90ca-2183e365f3d6" />
