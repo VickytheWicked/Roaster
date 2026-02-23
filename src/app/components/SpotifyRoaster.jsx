@@ -165,15 +165,16 @@ export function SpotifyRoaster() {
 
           <button
             onClick={() => setVal(3)}
-            disabled={Option == "youtube"}
+            // disabled={Option == "youtube"}
+            disabled={1}
             className="mb-6 px-6 py-3 bg-gradient-to-r from-yellow-500 to-orange-500 hover:from-red-600 hover:to-orange-600 disabled:from-gray-300 disabled:to-gray-400 text-black font-bold text-xs rounded-2xl transition shadow-2xl hover:shadow-3xl hover:scale-105 disabled:cursor-not-allowed disabled:scale-100"
           >{youtube ? (
             <span className="flex items-center gap-3">
-              YouTube
+              YouTube(coming soon)
             </span>
           ) : (
             <span className="flex items-center gap-3">
-              Youtube
+              Youtube(coming soon)
             </span>
           )}</button>
         </div>
